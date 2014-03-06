@@ -11,7 +11,7 @@ namespace ConsoleApplication9
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-
+            Console.WriteLine("Hello world again");
         }
     }
 }
