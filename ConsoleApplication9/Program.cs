@@ -13,6 +13,9 @@ namespace ConsoleApplication9
             Console.WriteLine("Hello world");
             Console.WriteLine("3rd commit");
             Console.WriteLine("Hello world again");
+
+            Console.WriteLine("I am bug fixing -first commit");
+
         }
     }
 }
