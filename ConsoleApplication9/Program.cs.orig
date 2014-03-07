@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication9
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello world");
+            Console.WriteLine("3rd commit");
+            Console.WriteLine("Hello world again");
+//<<<<<<< HEAD
+
+            Console.WriteLine("I am bug fixing -first commit");
+            Console.WriteLine("I am bug fixing -second commit");
+//=======
+            Console.WriteLine("Now i am adding a new feature first commit ");
+//>>>>>>> NewFeatures
+        }
+    }
+}
